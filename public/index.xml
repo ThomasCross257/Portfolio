@@ -13,7 +13,7 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>For as long as I can remember, I have been interested in computers, and that interest manifested as a passion for understanding them.&#xA;I have extensive knowledge of programming concepts, IT administration in a large-scale buisness, along with helpdesk experience.&#xA;In my free-time, I experiment with my Home-Lab in hopes of better understanding and meeting the demands of modern enterprises.&#xA;Some of my major skills are as follows:&#xA;&amp;nbsp; Linux</description>
+      <description>Get to know me For as long as I can remember, I have been interested in computers, and that interest manifested as a passion for understanding them.&#xA;I have extensive knowledge of programming concepts, IT administration in a large-scale buisness, along with helpdesk experience.&#xA;In my free-time, I experiment with my Home-Lab in hopes of better understanding and meeting the demands of modern enterprises.&#xA;As for a little bit of information about myself, I enjoy baking and excercising, along with doing a variety of different personal projects including but not limited to photography, abstract digital artwork and video editing.</description>
     </item>
     <item>
       <title>HomeLab</title>
@@ -27,21 +27,21 @@
       <link>http://localhost:1313/projects/openmedical/</link>
       <pubDate>Tue, 19 Dec 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/openmedical/</guid>
-      <description></description>
+      <description>OpenMedical is a website with an emphasis on being an open-source architecture to be used for creating an open environment that can be easily expanded upon. Project has been intended for use in newly founded hospitals wanting a basic infrastructure that can be quickly expanded upon by software engineers. It uses popular, readily available frameworks with plenty of documentation to assist in usability.&#xA;OpenMedical’s structure is built utilizing a two-layered architecture utilizing an ASP.</description>
     </item>
     <item>
       <title>CAL-IT Laptop Checkout System</title>
       <link>http://localhost:1313/projects/checkout/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/checkout/</guid>
-      <description></description>
+      <description>The IT checkout system developed during my time as a Student Assistant was created in response to the large volume of MacBooks suddenly coming into our possession after a lab was refitted with new hardware.&#xA;Seeing as they were still usable and we were facing budget constraints, I developed this simple flask site in hopes of making it easier for us to rent out laptops and keep track of them outside our normal database system.</description>
     </item>
     <item>
       <title>Sailor&#39;s Daily Jill</title>
       <link>http://localhost:1313/projects/sdj/</link>
       <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/sdj/</guid>
-      <description></description>
+      <description>Introduction &amp;nbsp; Sailor&amp;rsquo;s Daily Jill was originally conceptualized as an attempt to create a basic social media blogging site meant for viewing and consuming blog posts created by users.&#xA;This site was more of a means to an end, however, as the main feature involved its dockerization and eventual deployment to a kubernetes cluster of four Single Board Computers.&#xA;This was my first introduction to the realm of DevOps and the CI/CD pipeline.</description>
     </item>
     <item>
       <title>Installing Stable Diffusion Web-UI on Arch-based systems with AMD GPUs</title>
@@ -55,14 +55,14 @@
       <link>http://localhost:1313/projects/dbot/</link>
       <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/dbot/</guid>
-      <description></description>
+      <description>Introduction &amp;nbsp; Developed for Software Engineering during my time at university, D-Bot exists to act as an Open-Source template for modern discord bots utilizing newfound slash commands.&#xA;Organization &amp;nbsp; The project consisted of 5 Software Engineers, Assistant Project Manager &amp;amp; Project Manager.&#xA;Early efforts &amp;nbsp; As one of the Software Engineers, I took on the role as lead of backend development and began developing the bot&amp;rsquo;s initial commands and functionality, as well as implementing designs and the concepts for viewing user levels, API integration, Database Schema design, and deployment to Heroku.</description>
     </item>
     <item>
       <title>Personal Portfolio 1.0</title>
       <link>http://localhost:1313/projects/portfolio/</link>
       <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/portfolio/</guid>
-      <description></description>
+      <description>The original version of my personal portfolio is a static site developed using HTML, CSS and Javascript with no additional features. The site was developed both as a personal project and for my intro to web development class at community college.&#xA;While the repository is archived, the latest version is still available on github pages, and can still be viewed below:&#xA;thomascross257.github.io </description>
     </item>
   </channel>
 </rss>

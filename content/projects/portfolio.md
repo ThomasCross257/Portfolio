@@ -7,3 +7,9 @@ tags: ["HTML5", "CSS", "Javascript", "Github Pages" ]
 thumbnail: 
     url: img/ogportfolio.png
 ---
+
+The original version of my personal portfolio is a static site developed using HTML, CSS and Javascript with no additional features. The site was developed both as a personal project and for my intro to web development class at community college.
+
+While the repository is archived, the latest version is still available on github pages, and can still be viewed below:
+
+{{< link original_portfolio />}}

@@ -5,11 +5,7 @@ date: 2022-10-15
 description: Utilizing ROCm on an Arch Distro to run Stable-Diffusion.
 tags: ["stable-diffusion", "ROCm", "AI", "Image Generation"]
 thumbnail:
-  url: img/boots.jpg
-  author: Nathan Dumlao
-  authorURL: https://unsplash.com/@nate_dumlao
-  origin: Unsplash
-  originURL: https://unsplash.com/photos/QLPWQvHvmII
+  url: blog/AMDrx6000.jpeg
 ---
 
 # Introduction:

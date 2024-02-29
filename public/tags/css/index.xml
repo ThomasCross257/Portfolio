@@ -13,7 +13,7 @@
       <link>http://localhost:1313/projects/portfolio/</link>
       <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/portfolio/</guid>
-      <description></description>
+      <description>The original version of my personal portfolio is a static site developed using HTML, CSS and Javascript with no additional features. The site was developed both as a personal project and for my intro to web development class at community college.&#xA;While the repository is archived, the latest version is still available on github pages, and can still be viewed below:</description>
     </item>
   </channel>
 </rss>

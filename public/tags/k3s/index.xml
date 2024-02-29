@@ -13,7 +13,7 @@
       <link>http://localhost:1313/projects/sdj/</link>
       <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/sdj/</guid>
-      <description></description>
+      <description>Introduction &amp;nbsp; Sailor&amp;rsquo;s Daily Jill was originally conceptualized as an attempt to create a basic social media blogging site meant for viewing and consuming blog posts created by users.&#xA;This site was more of a means to an end, however, as the main feature involved its dockerization and eventual deployment to a kubernetes cluster of four Single Board Computers.&#xA;This was my first introduction to the realm of DevOps and the CI/CD pipeline.</description>
     </item>
   </channel>
 </rss>

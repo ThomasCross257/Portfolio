@@ -1,0 +1,7 @@
+    [en.params.head]
+        tagline = "By Thomas Cross"
+    [en.params.social]
+        title = "Want to get in touch with me?"
+        caption = "Shoot me a message. I'm always happy to talk!"
+    [en.params.footer]
+        # license = "Licensed under Creative Commons (<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' class='link-secondary' target='_blank' rel='noopener noreferrer'>CC BY-NC-SA 4.0</a>)."

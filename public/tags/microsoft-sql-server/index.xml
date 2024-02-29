@@ -13,7 +13,7 @@
       <link>http://localhost:1313/projects/openmedical/</link>
       <pubDate>Tue, 19 Dec 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/openmedical/</guid>
-      <description></description>
+      <description>OpenMedical is a website with an emphasis on being an open-source architecture to be used for creating an open environment that can be easily expanded upon. Project has been intended for use in newly founded hospitals wanting a basic infrastructure that can be quickly expanded upon by software engineers. It uses popular, readily available frameworks with plenty of documentation to assist in usability.&#xA;OpenMedical’s structure is built utilizing a two-layered architecture utilizing an ASP.</description>
     </item>
   </channel>
 </rss>

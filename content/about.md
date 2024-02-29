@@ -5,14 +5,16 @@ date: 2024-02-28
 updated: 2024-02-28
 showComments: false
 ---
-
+{{< persona thumbnail="/img/mainpic.png" title="Get to know me" color="primary" >}}
 For as long as I can remember, I have been interested in computers, and that interest manifested as a passion for understanding them.
 
 I have extensive knowledge of programming concepts, IT administration in a large-scale buisness, along with helpdesk experience. 
 
 In my free-time, I experiment with my Home-Lab in hopes of better understanding and meeting the demands of modern enterprises.
 
-Some of my major skills are as follows: 
+As for a little bit of information about myself, I enjoy baking and excercising, along with doing a variety of different personal projects including but not limited to photography, abstract digital artwork and video editing.
+{{< /persona >}}
+# Major Skills
 
 {{< card-group class="border-0" padding="3" >}}
     {{< card title="Linux" icon="fab centos" >}}
@@ -25,5 +27,3 @@ Some of my major skills are as follows:
         From resolving critical issues that saved contracts to simple issues with printers, I've resolved a great deal of issues from different operating systems and platforms, while maintaining an air of calm and professionality.
     {{< /card >}}
 {{< /card-group >}}
-
-As for a little bit of information about myself, I enjoy baking and excercising, along with doing a variety of different personal projects including but not limited to photography, abstract digital artwork and video editing.

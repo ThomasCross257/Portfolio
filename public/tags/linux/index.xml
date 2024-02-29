@@ -20,7 +20,7 @@
       <link>http://localhost:1313/projects/checkout/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/checkout/</guid>
-      <description></description>
+      <description>The IT checkout system developed during my time as a Student Assistant was created in response to the large volume of MacBooks suddenly coming into our possession after a lab was refitted with new hardware.&#xA;Seeing as they were still usable and we were facing budget constraints, I developed this simple flask site in hopes of making it easier for us to rent out laptops and keep track of them outside our normal database system.</description>
     </item>
   </channel>
 </rss>

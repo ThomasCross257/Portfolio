@@ -22,3 +22,46 @@
     toc = true
     sidebar = true
     size = "md"
+
+[social]
+    enabled = false
+
+[home]
+    # sections = ["projects", "blog"]
+    fullCover = false
+    centerHeadline = false
+    style = ""
+    [home.feature]
+        orientation = "horizontal"
+        color = "primary"
+        width = 4
+        align = "start"
+[sections]
+    [sections.blog]
+        title = "Blog"
+        sort = "date"
+        reverse = true
+        cols = 3
+        color = ""
+        padding = "0"
+        header = "full"
+        footer = "none"
+        orientation = "stacked"
+        style = "border-0 card-zoom card-body-margin"
+        homepage = 3
+        separator = true
+    [sections.projects]
+        title = "Projects"
+        sort = "date"
+        reverse = true
+        cols = 3
+        background = "body-tertiary"
+        padding = "0"
+        header = "full"
+        footer = "none"
+        orientation = "stacked"
+        style = "border-0 card-zoom card-body-margin"
+        homepage = 3
+        separator = false
+[links]
+    original_portfolio= "https://thomascross257.github.io/Portfolio/"

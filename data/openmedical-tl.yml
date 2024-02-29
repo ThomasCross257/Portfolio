@@ -1,0 +1,35 @@
+- title: Project Conceptualized
+  icon: fas rocket
+  color: warning
+  date: 2023-08-23
+  content: Intially conceptualized as an individual endeavor, additional contributors joined the team by September 5th.
+
+- title: Frontend Structure Completed
+  icon: fas pen-nib
+  color: success
+  date: 2023-09-15
+  content: Frontend structure designed and agreed upon by team members. Meetings began on how to proceed with the the backend API and Database schema.
+
+- title: Backend Foundation
+  icon: fas flag
+  color: info
+  date: 2023-09-16
+  content: Tasks assigned to other developers, namely POST requests and token creation, GET requests and frontend integration.
+
+- title: Database Schema Finalized
+  icon: fas database
+  color: secondary
+  date: 2023-10-03
+  content: Database schema finalized, reducing tables from 12 to 6 to improve performance and reduce redundancy.
+
+- title: Backend Completion
+  icon: fas code-merge
+  color: danger
+  date: 2023-11-07
+  content: GET and POST requests segregated on corrseponding tables. Switched from hardcoded repositories to using direct context of the database.
+
+- title: Complete API Integration
+  icon: fas flag-checkered
+  color: primary
+  date: 2023-11-21
+  content: API calls were seamlessly integrated within the frontend. Crushed a particularly difficult bug regarding degraded performance in non-chromium browsers. Effective project completion date.
