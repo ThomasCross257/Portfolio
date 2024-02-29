@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas Cross on Portfolio</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Thomas Cross on Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>For as long as I can remember, I have been interested in computers, and that interest manifested as a passion for understanding them.&#xA;I have extensive knowledge of programming concepts, IT administration in a large-scale buisness, along with helpdesk experience.&#xA;In my free-time, I experiment with my Home-Lab in hopes of better understanding and meeting the demands of modern enterprises.&#xA;Some of my major skills are as follows:&#xA;&amp;nbsp; Linux</description>
+    </item>
+    <item>
+      <title>HomeLab</title>
+      <link>http://localhost:1313/projects/homelab/</link>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/homelab/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OpenMedical</title>
+      <link>http://localhost:1313/projects/openmedical/</link>
+      <pubDate>Tue, 19 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/openmedical/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CAL-IT Laptop Checkout System</title>
+      <link>http://localhost:1313/projects/checkout/</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/checkout/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sailor&#39;s Daily Jill</title>
+      <link>http://localhost:1313/projects/sdj/</link>
+      <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/sdj/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Installing Stable Diffusion Web-UI on Arch-based systems with AMD GPUs</title>
+      <link>http://localhost:1313/blog/linuxstablediffusionamd/</link>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/linuxstablediffusionamd/</guid>
+      <description>Introduction: &amp;nbsp; This guide was written with Arch-Linux based systems in mind. I am using Manjaro 21.3.1 Ruah for this guide.&#xA;I will primarily be following the guide presented on the stable-diffusion webui page, though with some added tweaks to avoid having to root around for answers like I had to.&#xA;Getting Started: &amp;nbsp; You will need the following:&#xA;Arch Based distro or Arch Linux itself. AMD GPU (I am using an RX 6700 non-xt, but this should work for others.</description>
+    </item>
+    <item>
+      <title>D-Bot</title>
+      <link>http://localhost:1313/projects/dbot/</link>
+      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/dbot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal Portfolio 1.0</title>
+      <link>http://localhost:1313/projects/portfolio/</link>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/portfolio/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

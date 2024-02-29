@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Portfolio</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 09 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HomeLab</title>
+      <link>http://localhost:1313/projects/homelab/</link>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/homelab/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OpenMedical</title>
+      <link>http://localhost:1313/projects/openmedical/</link>
+      <pubDate>Tue, 19 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/openmedical/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CAL-IT Laptop Checkout System</title>
+      <link>http://localhost:1313/projects/checkout/</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/checkout/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sailor&#39;s Daily Jill</title>
+      <link>http://localhost:1313/projects/sdj/</link>
+      <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/sdj/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>D-Bot</title>
+      <link>http://localhost:1313/projects/dbot/</link>
+      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/dbot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal Portfolio 1.0</title>
+      <link>http://localhost:1313/projects/portfolio/</link>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/portfolio/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

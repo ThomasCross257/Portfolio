@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ROCm on Portfolio</title>
+    <link>http://localhost:1313/tags/rocm/</link>
+    <description>Recent content in ROCm on Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 15 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/rocm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installing Stable Diffusion Web-UI on Arch-based systems with AMD GPUs</title>
+      <link>http://localhost:1313/blog/linuxstablediffusionamd/</link>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/linuxstablediffusionamd/</guid>
+      <description>Introduction: &amp;nbsp; This guide was written with Arch-Linux based systems in mind. I am using Manjaro 21.3.1 Ruah for this guide.&#xA;I will primarily be following the guide presented on the stable-diffusion webui page, though with some added tweaks to avoid having to root around for answers like I had to.&#xA;Getting Started: &amp;nbsp; You will need the following:&#xA;Arch Based distro or Arch Linux itself. AMD GPU (I am using an RX 6700 non-xt, but this should work for others.</description>
+    </item>
+  </channel>
+</rss>

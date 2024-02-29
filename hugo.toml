@@ -1,0 +1,5 @@
+baseURL = 'https://tcross257.github.io/'
+languageCode = 'en-us'
+title = 'Portfolio'
+[[module.imports]]
+path = 'github.com/gethinode/hinode'
