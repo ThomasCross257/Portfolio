@@ -65,3 +65,7 @@
         separator = false
 [links]
     original_portfolio= "https://thomascross257.github.io/Portfolio/"
+
+[favicon]
+    logo = "img/PersonalLogoFavicon.png"
+    sizes = [16, 32, 48, 64, 128, 256, 512]

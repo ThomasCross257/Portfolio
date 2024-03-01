@@ -13,14 +13,14 @@
       <link>http://localhost:1313/projects/dbot/</link>
       <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/dbot/</guid>
-      <description>Introduction &amp;nbsp; Conceived during my university tenure for Software Engineering, D-Bot emerges as an Open-Source template tailored for contemporary Discord bots, harnessing the power of recently introduced slash commands.&#xA;Organization &amp;nbsp; A team of 5 Software Engineers, complemented by an Assistant Project Manager and a Project Manager, collectively shaped the project&amp;rsquo;s organizational structure.&#xA;Early Efforts &amp;nbsp; Taking on the mantle of lead backend developer among the Software Engineers, I spearheaded the creation of the bot&amp;rsquo;s initial commands and functionality.</description>
+      <description>Introduction &amp;nbsp; Developed for Software Engineering during my time at university, D-Bot exists to act as an Open-Source template for modern discord bots utilizing newfound slash commands.&#xA;Organization &amp;nbsp; The project consisted of 5 Software Engineers, Assistant Project Manager &amp;amp; Project Manager.&#xA;Early efforts &amp;nbsp; As one of the Software Engineers, I took on the role as lead of backend development and began developing the bot&amp;rsquo;s initial commands and functionality, as well as implementing designs and the concepts for viewing user levels, API integration, Database Schema design, and deployment to Heroku.</description>
     </item>
     <item>
       <title>Personal Portfolio 1.0</title>
       <link>http://localhost:1313/projects/portfolio/</link>
       <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/portfolio/</guid>
-      <description>The original version of my personal portfolio is a static site developed using HTML, CSS and Javascript with no additional features. The site was developed both as a personal project and for my intro to web development class at community college.&#xA;While the repository is archived, the latest version is still available on github pages, and can still be viewed below:</description>
+      <description>The original version of my personal portfolio is a static site developed using HTML, CSS and Javascript with no additional features. The site was developed both as a personal project and for my intro to web development class at community college.&#xA;While the repository is archived, the latest version is still available on github pages, and can still be viewed below:&#xA;thomascross257.github.io </description>
     </item>
   </channel>
 </rss>

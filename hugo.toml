@@ -3,3 +3,6 @@ languageCode = 'en-us'
 title = 'Portfolio'
 [[module.imports]]
 path = 'github.com/gethinode/hinode'
+
+[params.meta]
+    favicon = true
