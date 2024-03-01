@@ -63,8 +63,6 @@
         style = "border-0 card-zoom card-body-margin"
         homepage = 3
         separator = false
-[links]
-    original_portfolio= "https://thomascross257.github.io/Portfolio/"
 
 [favicon]
     logo = "img/PersonalLogoFavicon.png"
