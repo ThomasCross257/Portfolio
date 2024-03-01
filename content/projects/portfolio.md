@@ -12,4 +12,4 @@ The original version of my personal portfolio is a static site developed using H
 
 While the repository is archived, the latest version is still available on github pages, and can still be viewed below. 
 
-(Note: The original portfolio will be placed here once the issue is resolved.)
+https://thomascross257.github.io/Original-Portfolio/
