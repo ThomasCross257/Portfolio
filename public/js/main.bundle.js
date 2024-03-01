@@ -6549,7 +6549,7 @@ function initIndex() {
         href: "/projects/portfolio/",
         title: "Personal Portfolio 1.0",
         description: "Project meant for self-advertising and demonstrating web-development capabilities.",
-        content: "The original version of my personal portfolio is a static site developed using HTML, CSS and Javascript with no additional features. The site was developed both as a personal project and for my intro to web development class at community college.\nWhile the repository is archived, the latest version is still available on github pages, and can still be viewed below:\n"
+        content: "The original version of my personal portfolio is a static site developed using HTML, CSS and Javascript with no additional features. The site was developed both as a personal project and for my intro to web development class at community college.\nWhile the repository is archived, the latest version is still available on github pages, and can still be viewed below.\n(Note: The original portfolio will be placed here once the issue is resolved.)\n"
       })
       .add(
       {
