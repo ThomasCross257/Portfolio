@@ -1,7 +1,7 @@
 ---
 author: Thomas Cross
 title: Thomas Cross
-description: Driven and motivated systems administrator with proven experience in engineering and solutions .
+description: Driven and motivated systems administrator with proven experience in troubleshooting, server management & helpdesk.
 thumbnail:
     url: /img/gash.jpg
     author: Thomas Cross
